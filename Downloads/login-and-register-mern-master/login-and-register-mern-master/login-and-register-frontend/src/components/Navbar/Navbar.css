@@ -1,0 +1,14 @@
+.navbar {
+  padding: 5px 30px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.search {
+  display: inline-block;
+  border: 1px solid #7b809a;
+  box-sizing: border-box;
+  border-radius: 8px;
+  background-color: white;
+}
